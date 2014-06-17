@@ -10,6 +10,7 @@
 
 @interface ViewController : UIViewController
 {
+    //(☝ ՞ਊ ՞)☝ｷｴｴｴｴｴｴｴｴｴｴｴｴｴｴｴｴｴｴ
     IBOutlet UILabel *label,*label2;
 	long number;
     long number2;
